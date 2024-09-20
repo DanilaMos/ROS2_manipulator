@@ -13,6 +13,7 @@ Launch file path: robot_ws/src/robot_model_pkg/launch/robot.launch
 
 
 Домашнее задание № по курсу: Dynamics of nonlinear Robotic Systems
+
 Выполнил: Москвитин Данила
 
 
