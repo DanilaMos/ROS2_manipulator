@@ -11,10 +11,8 @@ Tf_tree path: robot_ws/src/robot_model_pkg/robot_tf_tree.png
 Launch file path: robot_ws/src/robot_model_pkg/launch/robot.launch
 
 
-Домашнее задание №1 по курсу:
 
-Dynamics of nonlinear Robotic Systems
-
+Домашнее задание № по курсу: Dynamics of nonlinear Robotic Systems
 Выполнил: Москвитин Данила
 
 
